@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/kukkiva-kotini/static/css/main.b47a58c0.css",
-    "main.js": "/kukkiva-kotini/static/js/main.f77cbfe1.js",
+    "main.js": "/kukkiva-kotini/static/js/main.3a283cfc.js",
     "static/media/bg_img.jpg": "/kukkiva-kotini/static/media/bg_img.88cb9ebfda7ae73ae2ab.jpg",
     "static/media/roboto-all-400-normal.woff": "/kukkiva-kotini/static/media/roboto-all-400-normal.376ea5d93f71583052f6.woff",
     "static/media/roboto-latin-400-normal.woff2": "/kukkiva-kotini/static/media/roboto-latin-400-normal.4673b4537a84c7f7a130.woff2",
@@ -13,10 +13,10 @@
     "static/media/roboto-greek-ext-400-normal.woff2": "/kukkiva-kotini/static/media/roboto-greek-ext-400-normal.bb723e8458c9c653e505.woff2",
     "index.html": "/kukkiva-kotini/index.html",
     "main.b47a58c0.css.map": "/kukkiva-kotini/static/css/main.b47a58c0.css.map",
-    "main.f77cbfe1.js.map": "/kukkiva-kotini/static/js/main.f77cbfe1.js.map"
+    "main.3a283cfc.js.map": "/kukkiva-kotini/static/js/main.3a283cfc.js.map"
   },
   "entrypoints": [
     "static/css/main.b47a58c0.css",
-    "static/js/main.f77cbfe1.js"
+    "static/js/main.3a283cfc.js"
   ]
 }
